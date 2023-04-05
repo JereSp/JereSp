@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"</img>
 
-- 🌱 I’m currently learning **Solidity and Blockchain**
+- 🌱 I’m currently working at Valtech as **Frontend Developer**
 
 - 💬 Ask me about **react, javascript, redux, react native,express, sequelize, postgreSQL, css, bootstrap**
 
